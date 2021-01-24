@@ -8,9 +8,9 @@ Books I have read this year:
 ### January
 Robert C. Martin - The Clean Coder  
 Elizabeth Gilbert - Big Magic
+Aldous Huxley - Brave New World  
 
 ### Books that I am reading right now:
-Aldous Huxley - Brave New World  
 Brett Easton Ellis - American Psycho
 
 ### Books on my to-do list:
