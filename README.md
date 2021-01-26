@@ -16,7 +16,9 @@ Brett Easton Ellis - American Psycho
 ### Books on my to-do list:
 Julia Cameron - The Artist's Way  
 David Allen - Getting Things Done  
-Timothy Ferriss - The 4-Hour Work Week
+Timothy Ferriss - The 4-Hour Work Week  
+Mark Manson - The Subtle Art of Not Giving A Fuck  
+Paolo Coelho - The Alchemist
 
 ## Courses
 
