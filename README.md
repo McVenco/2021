@@ -19,6 +19,7 @@ David Allen - Getting Things Done
 Timothy Ferriss - The 4-Hour Work Week  
 Mark Manson - The Subtle Art of Not Giving A Fuck  
 Paolo Coelho - The Alchemist  
+Jen Cincero - You Are A Badass  
 Stephen Hawking - A Brief History of Time  
 Steven Pressfield - The War of Art
 
