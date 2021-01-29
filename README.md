@@ -7,7 +7,7 @@ My goal for 2021 is to read AT LEAST two books every month. No specific subject 
 Books I have read this year:
 ### January
 Robert C. Martin - The Clean Coder  
-Elizabeth Gilbert - Big Magic
+Elizabeth Gilbert - Big Magic  
 Aldous Huxley - Brave New World  
 
 ### Books that I am reading right now:
