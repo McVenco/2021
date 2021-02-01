@@ -11,7 +11,7 @@ Elizabeth Gilbert - Big Magic
 Aldous Huxley - Brave New World  
 
 ### Books that I am reading right now:
-Brett Easton Ellis - American Psycho
+Bret Easton Ellis - American Psycho
 
 ### Books on my to-do list:
 Julia Cameron - The Artist's Way  
