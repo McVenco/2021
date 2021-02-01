@@ -25,10 +25,13 @@ Steven Pressfield - The War of Art
 
 ## Courses
 
+### Courses I am following right now:  
+React for Beginners, by Wes Bos (https://reactforbeginners.com/)  
+
 ### Courses to-do list:
 Beginner JavaScript, by Wes Bos (https://beginnerjavascript.com/)  
-React for Beginners, also by Wes Bos (https://reactforbeginners.com/)  
-Mastering Markdown, again by Wes Bos (https://masteringmarkdown.com/)  
+Mastering Markdown, by Wes Bos (https://masteringmarkdown.com/)  
+Complete React Developer (https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)  
 A Photoshop course, to learn some of the basics, perhaps this one: https://www.youtube.com/watch?v=IyR_uYsRdPs
 
 ## Blogs and code
