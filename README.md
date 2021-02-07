@@ -26,11 +26,11 @@ Steven Pressfield - The War of Art
 ## Courses
 
 ### Courses done:
-Creative Writing (Instagram course)
+Creative Writing (Instagram course)  
+Creative Entrepreneurship (Instagram course)
 
 ### Courses I am following right now:  
 React for Beginners, by Wes Bos (https://reactforbeginners.com/)  
-Creative Entrepreneurship (Instagram course)
 
 ### Courses to-do list:
 Beginner JavaScript, by Wes Bos (https://beginnerjavascript.com/)  
