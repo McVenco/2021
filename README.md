@@ -10,11 +10,13 @@ Robert C. Martin - The Clean Coder
 Elizabeth Gilbert - Big Magic  
 Aldous Huxley - Brave New World  
 
+### February
+Bret Easton Ellis - American Psycho  
+
 ### Books that I am reading right now:
-Bret Easton Ellis - American Psycho
+Julia Cameron - The Artist's Way  
 
 ### Books on my to-do list:
-Julia Cameron - The Artist's Way  
 David Allen - Getting Things Done  
 Timothy Ferriss - The 4-Hour Work Week  
 Mark Manson - The Subtle Art of Not Giving A Fuck  
