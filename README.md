@@ -13,6 +13,9 @@ Aldous Huxley - Brave New World
 ### February
 Bret Easton Ellis - American Psycho  
 
+### March
+Paolo Coelho - The Alchemist  
+
 ### Books that I am reading right now:
 Julia Cameron - The Artist's Way  
 
@@ -20,7 +23,6 @@ Julia Cameron - The Artist's Way
 David Allen - Getting Things Done  
 Timothy Ferriss - The 4-Hour Work Week  
 Mark Manson - The Subtle Art of Not Giving A Fuck  
-Paolo Coelho - The Alchemist  
 Jen Cincero - You Are A Badass  
 Stephen Hawking - A Brief History of Time  
 Steven Pressfield - The War of Art
